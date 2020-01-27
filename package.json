@@ -1,0 +1,22 @@
+{
+  "name": "modenatechsummit",
+  "version": "0.0.0",
+  "description": "modena tech summit - slides & examples",
+  "keywords": [
+    "fp",
+    "ts",
+    "typescript",
+    "fp-ts",
+    "functional-programming"
+  ],
+  "author": "Giovanni Gonzaga <giovanni@buildo.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "fp-ts": "^2.4.1",
+    "react": "^16.12.0"
+  }
+}
